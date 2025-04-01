@@ -1,0 +1,4 @@
+canva color wheel website par monochromatic,triadic and  complimentary color ka list is there . Go there if u want some good volor combination for your website
+typography is also equally important for a website
+font-families where different different fonts are available are sans-serif,serif,monospace,cursive,fantasy
+google fonts- free fonts library that we can use in our websites
